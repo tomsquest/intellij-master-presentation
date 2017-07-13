@@ -6,7 +6,7 @@ For the presentation, see [index.html](index.html).
 For the keyboard shortcuts, see [SHORTCUTS.md](SHORTCUTS.md).  
 I gave this presentation to my coworkers on july 2017.
 
-![](intellij.png)
+![](img/intellij.png)
 
 ## Todo
 

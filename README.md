@@ -11,11 +11,6 @@ I first gave this presentation to my coworkers on july 2017.
 
 ![](img/intellij.png)
 
-## Todo
-
-* Pictures of the prizes (yoyos, stickers)
-* Add Licence
-
 ## Rules
 
 A keyboard **championship** is given: 
@@ -23,6 +18,13 @@ A keyboard **championship** is given:
 * Each correct response gives a +1
 * The top 3 scorers win a yoyos
 * One random of the remaining player also wins a yoyo (encourage participation)
+
+## Swag
+
+Generously given by Jetbrains!
+
+![Swag](img/swag.png)
+
 
 ## Generating the presentation
 

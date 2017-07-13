@@ -3,9 +3,10 @@
 A small and fun challenge around Jetbrains Intellij IDEA.  
 The idea is to increase proficiency by mastering the keyboard and giving some tips about the editor, settings and plugins.   
 For the presentation, see [index.html](index.html).  
-For the keyboard shortcuts, see [SHORTCUTS.md](SHORTCUTS.md).
-
+For the keyboard shortcuts, see [SHORTCUTS.md](SHORTCUTS.md).  
 I gave this presentation to my coworkers on july 2017.
+
+![](intellij.png)
 
 ## Todo
 

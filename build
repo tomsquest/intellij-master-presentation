@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+set -u
+set -e
+
+readonly shortcutsFile="SHORTCUTS.pdf"
+echo "Generating $shortcutsFile"
+
+pdf_url=$(curl --silent \
+    'http://www.markdowntopdf.com/app/upload' \
+    --compressed -H 'X-Requested-With: XMLHttpRequest' -H 'Content-Type: multipart/form-data;' \
+    -F "file=@SHORTCUTS.md" | \
+    jq --raw-output '[.foldername,.urlfilename] | "http://www.markdowntopdf.com/app/download/" + join("\/")' \
+)
+wget --quiet $pdf_url -O "$shortcutsFile"
+
+echo " -> Generated $shortcutsFile"
+
+echo "Generating presentation"
+cleaver index.md
+echo " -> Generated index.html"

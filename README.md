@@ -4,7 +4,10 @@ A small and fun challenge around Jetbrains Intellij IDEA.
 The idea is to increase proficiency by mastering the keyboard and giving some tips about the editor, settings and plugins.   
 For the presentation, see [index.html](index.html).  
 For the keyboard shortcuts, see [SHORTCUTS.md](SHORTCUTS.md).  
-I gave this presentation to my coworkers on july 2017.
+
+The "Presentation Assistant" plugin is very handy to display the keyboard shortcuts on screen.
+  
+I first gave this presentation to my coworkers on july 2017.
 
 ![](img/intellij.png)
 

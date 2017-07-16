@@ -2,7 +2,7 @@
 
 A small and fun challenge around Jetbrains Intellij IDEA.  
 The idea is to increase proficiency by mastering the keyboard and giving some tips about the editor, settings and plugins.   
-For the presentation, see [index.html](index.html).  
+For the presentation, display it directly: [Intellij Master](https://tomsquest.github.io/intellij-master-presentation).  
 For the keyboard shortcuts, see [SHORTCUTS.md](SHORTCUTS.md) and the generated [SHORTCUTS.pdf](SHORTCUTS.pdf).  
 
 The "Presentation Assistant" plugin is very handy to display the keyboard shortcuts on screen.

@@ -115,9 +115,16 @@ div>ul>li
 ![](img/editor_line_coverage_default.png)
 ![](img/editor_line_coverage_fg_to_bg.png)
 --
-### GIT
+### Format GIT commits
 
-![](img/settings_git_wrap_at_72.png)
+![](img/settings_git_commit_settings.png)
+
+* Commit subjet: 50 chars
+* Commit body: wrap at 72 chars
+* Empty line between subject and body
+--
+### GIT SSH agent
+
 ![](img/settings_git_ssh_native_executable.png)
 --
 # Plugins

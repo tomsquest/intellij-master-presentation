@@ -57,6 +57,8 @@ Alt+J, Alt+Shift+J, Ctrl+Alt+Shift+J, Ctrl+Ctrl+Up/Down
 ### Replace instead of insert
 
 ![](img/editor_replace_with_tab.png)
+
+Use `Tab` instead of `Enter`
 --
 ### Smart Completion
 
@@ -95,6 +97,8 @@ Tools → Create command line launcher
 
 ![](img/editor_autotest_button.png)
 ![](img/editor_autotest_build_project_automatically.png)
+
+Annoying: lose focus on syntax error
 --
 ### Multi Find tabs
 
@@ -116,7 +120,7 @@ div>ul>li
 --
 # Settings
 --
-### Coverage
+### Coverage colors
 
 ![](img/editor_line_coverage_default.png)
 ![](img/editor_line_coverage_fg_to_bg.png)
@@ -137,13 +141,13 @@ div>ul>li
 --
 ### Useful
 
-* Key Promoter (padawan)
+* Key Promoter: for learning
 * Shifter: change visibility, inc/decr numbers, dates...
 * Log support 2: brings logger inspection, eg. forgotten param in `log.info("foo: {}")`
 --
 ### Trying
 
-* Acejump: jumping around
+* Acejump: Jump Around!
 * Sonar Lint: becoz errors
 --
 ### Final thoughts

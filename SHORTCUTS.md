@@ -41,6 +41,7 @@
 ### Jedi Master
 
 1. Move a parameter left/right `Ctrl+Shift+Left/Right`
+1. Call Hierarchy (+ Prod/Test Scopes) `Ctrl+Alt+b`
 1. Navigate symbol `Ctrl+Shift+Alt+N`
 1. Multi-cursor selection `Alt+J`, `Alt+Shift+J`, `Ctrl+Alt+Shift+J`, `Ctrl+Ctrl+Up/Down`
 1. Hippie Completion `Alt+/`, `Alt+Shift+/`

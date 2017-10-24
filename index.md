@@ -48,6 +48,12 @@ controls: false
 
 Ctrl+J
 --
+### Multi-Cursors
+
+![](img/editor_multicursor.png)
+
+Alt+J, Alt+Shift+J, Ctrl+Alt+Shift+J, Ctrl+Ctrl+Up/Down
+--
 ### Replace instead of insert
 
 ![](img/editor_replace_with_tab.png)

@@ -1,6 +1,6 @@
 # Keyboard shortcuts
 
-### Padawan
+### Jedi Padawan
 
 1. Open Class `Ctrl+N`
 1. Open file `Ctrl+Shift+N`
@@ -15,7 +15,7 @@
 1. Go to line `Ctrl+G`
 1. Go to test (and back) `Ctrl+Shift+T`
 
-### Fluent
+### Jedi Knight
 
 1. Move a statement `Ctrl+Shift+Up/Down`
 1. Refactor > Extract variable `Ctrl+Alt+V`
@@ -38,7 +38,7 @@
 1. Bookmarks > Add `F11`
 1. Bookmarks > Show all `Shift+F11`
 
-### Ninja
+### Jedi Master
 
 1. Move an element `Ctrl+Shift+Left/Right`
 1. Navigate symbol `Ctrl+Shift+Alt+N`

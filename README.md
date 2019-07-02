@@ -1,4 +1,4 @@
-# Intellij IDEA Master - Presentation
+# :trophy: Intellij IDEA Master - Presentation
 
 A small and fun challenge around Jetbrains Intellij IDEA.  
 The idea is to increase proficiency by mastering the keyboard and giving some tips about the editor, settings and plugins.   
@@ -16,7 +16,7 @@ I first gave this presentation to my coworkers on july 2017.
 A keyboard **championship** is given: 
 
 * Each correct response gives a +1
-* The top 3 scorers win a yoyos
+* The top 3 scorers win a yoyo
 * One random of the remaining player also wins a yoyo (encourage participation)
 
 ## Swag
